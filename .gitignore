@@ -7,5 +7,7 @@
 *.docx
 *.out
 *.bak
+*.bbl
+*.blg
 Ign_*
 .DS_store
